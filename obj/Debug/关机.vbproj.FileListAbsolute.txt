@@ -1,0 +1,12 @@
+C:\Users\Licardo\source\repos\关机\关机\bin\Debug\关机.exe.config
+C:\Users\Licardo\source\repos\关机\关机\bin\Debug\关机.exe
+C:\Users\Licardo\source\repos\关机\关机\bin\Debug\关机.pdb
+C:\Users\Licardo\source\repos\关机\关机\bin\Debug\关机.xml
+C:\Users\Licardo\source\repos\关机\关机\obj\Debug\关机.vbprojResolveAssemblyReference.cache
+C:\Users\Licardo\source\repos\关机\关机\obj\Debug\关机.Form1.resources
+C:\Users\Licardo\source\repos\关机\关机\obj\Debug\关机.Resources.resources
+C:\Users\Licardo\source\repos\关机\关机\obj\Debug\关机.vbproj.GenerateResource.Cache
+C:\Users\Licardo\source\repos\关机\关机\obj\Debug\关机.vbproj.CoreCompileInputs.cache
+C:\Users\Licardo\source\repos\关机\关机\obj\Debug\关机.exe
+C:\Users\Licardo\source\repos\关机\关机\obj\Debug\关机.xml
+C:\Users\Licardo\source\repos\关机\关机\obj\Debug\关机.pdb
